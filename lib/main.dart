@@ -21,7 +21,6 @@ class MyApp extends StatelessWidget {
           color:Colors.white,
           elevation: 0.0,
           iconTheme: IconThemeData(color: Colors.black),
-          toolbarTextStyle: TextStyle(textTheme,)
         )),
         darkTheme: ThemeData(
           brightness: Brightness.dark,
